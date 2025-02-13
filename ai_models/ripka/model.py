@@ -3,7 +3,7 @@ import PyPDF2
 import docx
 import speech_recognition as sr
 
-class SarthiAI:
+class RipkaAI:
     def __init__(self):
         pass
 
@@ -39,12 +39,12 @@ class SarthiAI:
 
 # Example usage
 if __name__ == "__main__":
-    ai = SarthiAI()
+    ai = RipkaAI()
     print(ai.search_internet("Python programming"))
     print(ai.read_pdf("example.pdf"))
     print(ai.read_docx("example.docx"))
     print(ai.encode_audio("example.wav"))
     
 else:
-    ai = SarthiAI()
+    ai = RipkaAI()
 

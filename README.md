@@ -2,13 +2,13 @@
 ![Forks](https://img.shields.io/badge/Forks-0-blue) ![Stars](https://img.shields.io/badge/Stars-0-yellow) ![Likes](https://img.shields.io/badge/Likes-0-brightgreen) [![Ketivee Website](https://img.shields.io/badge/Ketivee-Website-orange)](https://ketivee.com)
 ![alt text](pixel@2x.png)
 
-Welcome to the **Sarthi AI Development Program**! This initiative, also called the **Sarthi Development Program**, is an open-source effort to create cutting-edge AI tools designed to enhance industries like agriculture, education, medicine, space exploration, entertainment, and more. Founded by "s w a n a y a" and supported by the passionate team at "k e t i v e e," this program is open for anyone to use, modify, and contribute to without restrictions. The core concept revolves around leveraging multiple AI systems working together to achieve groundbreaking results.
+Welcome to the **RipkaAI Development Program**! This initiative, also called the **RipkaDevelopment Program**, is an open-source effort to create cutting-edge AI tools designed to enhance industries like agriculture, education, medicine, space exploration, entertainment, and more. Founded by "s w a n a y a" and supported by the passionate team at "k e t i v e e," this program is open for anyone to use, modify, and contribute to without restrictions. The core concept revolves around leveraging multiple AI systems working together to achieve groundbreaking results.
 
 ---
 
 ## Project Overview
 
-The **Sarthi AI Development Program** is dedicated to creating AI systems that integrate seamlessly to simplify complex tasks and unlock creative potential. Whether it’s helping a game studio design characters, aiding doctors in medical diagnostics, or providing tools for space satellite analysis, Sarthi AI’s vision is to make advanced technology accessible and impactful for everyone.
+The **RipkaAI Development Program** is dedicated to creating AI systems that integrate seamlessly to simplify complex tasks and unlock creative potential. Whether it’s helping a game studio design characters, aiding doctors in medical diagnostics, or providing tools for space satellite analysis, RipkaAI’s vision is to make advanced technology accessible and impactful for everyone.
 
 The project structure and additional details can be found in the `stucter.s` file within the repository’s root directory. For any questions, ideas, or issues, feel free to contact us:
 
@@ -21,7 +21,7 @@ The project structure and additional details can be found in the `stucter.s` fil
 
 This project employs a suite of six advanced AI models, each designed for specialized tasks:
 
-1. **Sarthi AI**: The main AI for interacting with users, handling natural language processing (NLP) to generate large contexts, write code, manage documents, solve mathematical problems, analyze medical data, and much more.
+1. **RipkaAI**: The main AI for interacting with users, handling natural language processing (NLP) to generate large contexts, write code, manage documents, solve mathematical problems, analyze medical data, and much more.
 2. **AAdi AI**: Specializes in image and video generation by combining its capabilities with 3D modeling from Yug AI.
 3. **Yug AI**: Creates 3D models and environments, bringing unparalleled precision to creative and industrial applications.
 4. **Arth AI**: Revolutionizes sound design and music creation with advanced MIDI pattern generation and song sampling.
@@ -32,15 +32,15 @@ This project employs a suite of six advanced AI models, each designed for specia
 
 ## Training and Integration
 
-Training effective AI models requires a vast amount of data and skilled expertise. At Sarthi AI, our models are trained using custom datasets to ensure precision and reliability. Integration is streamlined into a single user interface, allowing users to ask questions or perform tasks effortlessly while the AI collaborates in the background to deliver accurate and meaningful results.
+Training effective AI models requires a vast amount of data and skilled expertise. At RipkaAI, our models are trained using custom datasets to ensure precision and reliability. Integration is streamlined into a single user interface, allowing users to ask questions or perform tasks effortlessly while the AI collaborates in the background to deliver accurate and meaningful results.
 
 ---
 
 ## Capabilities of AI Models
 
-### 1. Sarthi AI
+### 1. RipkaAI
 
-Built on NLP, Sarthi AI is designed for:
+Built on NLP, RipkaAI is designed for:
 
 - Generating large texts and contexts
 - Code generation and debugging
@@ -87,7 +87,7 @@ At **Ketivee**, our mission is to advance technology by creating tools that enha
 
 ---
 
-## Contributing to Sarthi AI
+## Contributing to RipkaAI
 
 We warmly welcome contributions from everyone! Here’s how you can get involved:
 
@@ -133,11 +133,11 @@ Thank you for making a difference.
 
 1. **User Interaction**:
 
-   - Users access a web interface to upload code, media, or interact with Sarthi AI for specific tasks (e.g., website generation).
+   - Users access a web interface to upload code, media, or interact with RipkaAI for specific tasks (e.g., website generation).
 
 2. **Backend API**:
 
-   - Our backend integrates various AI components (Sarthi, Yug, Aadi, Arth, Ved) using REST APIs.
+   - Our backend integrates various AI components (Ripka Yug, Aadi, Arth, Ved) using REST APIs.
 
 3. **Training & Output**:
 
@@ -153,7 +153,7 @@ Thank you for making a difference.
 
 ---
 
-## Why Choose Sarthi AI?
+## Why Choose RipkaAI?
 
 - **Open Source**: Free and accessible to everyone.
 - **Collaborative AI**: Harness the power of multiple specialized AI systems.
@@ -162,7 +162,7 @@ Thank you for making a difference.
 
 ---
 
-## Join the Sarthi AI Community
+## Join the RipkaAI Community
 
 Become a part of our growing community. Visit our [GitHub Repository](https://github.com/ketivee-org/RipkaAI) to get started today!
 

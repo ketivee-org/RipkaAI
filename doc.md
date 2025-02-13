@@ -1,4 +1,4 @@
-#SarthiAI development program
+#Ripka development program
 
 (A) Project overview
 
@@ -22,9 +22,9 @@ enhancing its overall capabilities.
 
 (D) AI models work or capability
 
-(1) SarthiAI is based on “nlp”(natural language process). It means AI can understand and respond to the user's questions. It uses Parth AI if a user is running any programs on a local environment, to help them to resolve the problem. Talking about capabilities it can use to generate large context, code generating, document management, mathematical equations, solve complex reasoning, content analysis, medical research, space satellite analysis or testing, web-app development, game creation, agriculture improvement, and educational development, etc. 
+(1) RipkaAI is based on “nlp”(natural language process). It means AI can understand and respond to the user's questions. It uses Parth AI if a user is running any programs on a local environment, to help them to resolve the problem. Talking about capabilities it can use to generate large context, code generating, document management, mathematical equations, solve complex reasoning, content analysis, medical research, space satellite analysis or testing, web-app development, game creation, agriculture improvement, and educational development, etc. 
 
-(2) AAdi AI. This model uses SarthiAI and Yug AI to generate images and videos. The ability of AAdi is more than image generation. 
+(2) AAdi AI. This model uses RipkaAI and Yug AI to generate images and videos. The ability of AAdi is more than image generation. 
 The idea is simple because Yug generates 3d items or characters So, we can generate accurate images. The problem with old AI models is that they generate 2d images because they train on 2d images. But AAdi generates 3d characters so the human face and other items can not be blurry or inaccurate. 
 
 (3) Yug AI. We've already explored how AAdi and Yug AI work together. Yug AI specializes in generating 3D items, while AAdi provides the textures and colors, bringing those items to life with stunning visuals. What's more, Yug AI leverages real-time 3D texture mapping in software like Blender, enhancing the creative process on local machines.

@@ -1,4 +1,4 @@
-# SarthiAI
+# RipkaAI
 ![Forks](https://img.shields.io/badge/Forks-0-blue) ![Stars](https://img.shields.io/badge/Stars-0-yellow) ![Likes](https://img.shields.io/badge/Likes-0-brightgreen) [![Ketivee Website](https://img.shields.io/badge/Ketivee-Website-orange)](https://ketivee.com)
 ![alt text](pixel@2x.png)
 
@@ -164,7 +164,7 @@ Thank you for making a difference.
 
 ## Join the Sarthi AI Community
 
-Become a part of our growing community. Visit our [GitHub Repository](https://github.com/ketivee-org/SarthiAI) to get started today!
+Become a part of our growing community. Visit our [GitHub Repository](https://github.com/ketivee-org/RipkaAI) to get started today!
 
 
 

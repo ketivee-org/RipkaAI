@@ -1,9 +1,9 @@
-# Improved File Structure for SarthiAI
+# Improved File Structure for RipkaAI
 
-## Root Directory (SarthiAI/)
+## Root Directory (RipkaAI/)
 
 ```plaintext
-SarthiAI/
+RipkaAI/
 │
 ├── ai_models/               # Contains all AI model implementations
 ├── frontend/                # Web interface code
@@ -23,15 +23,15 @@ SarthiAI/
 Organized into subfolders for each AI model with separate folders for preprocessing, model architecture, and utilities.
 
 ```plaintext
-SarthiAI/ai_models/
+RipkaAI/ai_models/
 │
-├── sarthi/                 # Sarthi AI model for orchestration
+├── Ripka/                 # Ripka AI model for orchestration
 │   ├── src/                # Source code for model architecture
-│   │   ├── model.py        # Main Sarthi model script
+│   │   ├── model.py        # Main Ripka model script
 │   │   ├── interaction.py  # User interaction logic
 │   │   └── utils.py        # Helper functions
 │   ├── configs/            # Configuration files
-│   │   └── config.yaml     # Configurations for Sarthi AI
+│   │   └── config.yaml     # Configurations for Ripka AI
 │   ├── data/               # Data preprocessing logic
 │   │   └── preprocess.py   # Data preprocessing script
 │   └── checkpoints/        # Pre-trained weights and checkpoints
@@ -91,7 +91,7 @@ SarthiAI/ai_models/
 Organized for a modular React or Next.js application with reusable components.
 
 ```plaintext
-SarthiAI/frontend/
+RipkaAI/frontend/
 │
 ├── public/                  # Public assets
 │   ├── css/                 # Global styles
@@ -121,12 +121,12 @@ SarthiAI/frontend/
 Contains REST API logic, services, and database models.
 
 ```plaintext
-SarthiAI/backend_server/
+RipkaAI/backend_server/
 │
 ├── src/                     # Source code for the backend
 │   ├── main.py              # Entry point (Flask/FastAPI/Django)
 │   ├── api/                 # API endpoints
-│   │   ├── sarthi_api.py
+│   │   ├── Ripka_api.py
 │   │   ├── file_upload.py
 │   │   ├── output_api.py
 │   │   └── auth.py
@@ -152,7 +152,7 @@ SarthiAI/backend_server/
 Organized for efficient dataset management and training pipelines.
 
 ```plaintext
-SarthiAI/training/
+RipkaAI/training/
 │
 ├── datasets/                # Raw and preprocessed datasets
 │   ├── code_dataset/
@@ -161,7 +161,7 @@ SarthiAI/training/
 │   ├── music_dataset/
 │   └── emotion_dataset/
 ├── scripts/                 # Training scripts
-│   ├── train_sarthi.py
+│   ├── train_Ripka.py
 │   ├── train_yug.py
 │   ├── train_aadi.py
 │   ├── train_arth.py
@@ -170,7 +170,7 @@ SarthiAI/training/
 ├── configs/                 # Training configurations
 │   └── training_config.yaml
 └── logs/                    # Training logs
-    ├── training_log_sarthi.txt
+    ├── training_log_Ripka.txt
     ├── training_log_yug.txt
     └── training_log_ved.txt
 ```
@@ -182,13 +182,13 @@ SarthiAI/training/
 Stores all generated outputs categorized by type.
 
 ```plaintext
-SarthiAI/output_files/
+RipkaAI/output_files/
 │
 ├── websites/                # Generated websites
 ├── programs/                # Generated programs
 │   ├── linux/
 │   ├── mac/
-│   ├── sarthi_os/
+│   ├── Ripka_os/
 │   └── windows/
 ├── media/                   # Generated multimedia content
 │   ├── images/
@@ -208,7 +208,7 @@ SarthiAI/output_files/
 Centralized logging for all project activities.
 
 ```plaintext
-SarthiAI/logs/
+RipkaAI/logs/
 │
 ├── server_logs/             # Backend server logs
 │   └── server_log.txt
@@ -225,7 +225,7 @@ SarthiAI/logs/
 Utility scripts for deployment, monitoring, and automation.
 
 ```plaintext
-SarthiAI/scripts/
+RipkaAI/scripts/
 │
 ├── deploy.sh                # Deployment automation script
 ├── monitor.py               # Monitoring script for server and AI models

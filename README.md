@@ -1,5 +1,5 @@
 # RipkaAI
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fketivee-org%2FRipkaAI%2Fstargazers)
+
 
 ![Forks](https://img.shields.io/badge/Forks-0-blue) ![Stars](https://img.shields.io/badge/Stars-1-yellow) ![Likes](https://img.shields.io/badge/Likes-1-brightgreen) [![Ketivee Website](https://img.shields.io/badge/Ketivee-Website-orange)](https://ketivee.com)  
 ![RipkaAI Logo](pixel@2x.png) <!-- Replace with your logo or remove if not available -->
